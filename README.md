@@ -41,8 +41,8 @@
 - **多语言覆盖**：除 C++ 主线，还有社区贡献的多语言实现。
 
 <p align="center">
-<a href="https://my.feishu.cn/wiki/BZ5UwtJXQi2i2HkAngUc3puZnvf" target="_blank">
-	<img src="./pics/大模型训练营.jpg" width="800" />
+<a href="https://programmercarl.com/xunlian/damoxing.html" target="_blank">
+	<img src="./pics/damoxing.jpg" width="800" />
 </a>
 </p>
 
